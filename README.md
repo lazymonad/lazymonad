@@ -1,2 +1,2 @@
 ### Hi there 👋
-New GitHub: https://www.github.com/nopfault
+Personal GitHub: https://www.github.com/nopfault
